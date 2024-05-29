@@ -1,5 +1,7 @@
 # Amphibole compositions record cold post-emplacement reequilibration in plutons
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11391229.svg)](https://doi.org/10.5281/zenodo.11391229)
+
 ## Data
 
 Compiled and simulated data used in this study are included.
