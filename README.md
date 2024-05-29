@@ -48,3 +48,14 @@ Comparison of the chemical behavior of simulated volcanic and plutonic rocks in 
 - silica-temperature-modeling.py
 
 Comparison of natural volcanic and plutonic rock temperatures calculated from hornblende thermometers and simulated volcanic and plutonic rock temperatures in cooling crystallization, melt extraction, and reequilibration modes as a function of silica.
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg

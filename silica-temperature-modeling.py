@@ -6,7 +6,8 @@
 @Author  :   Ke Gao 
 @Version :   1.0
 @Contact :   earthgaoke@gmail.com
-@Desc    :   Comparison of the chemical behavior of simulated volcanic and plutonic rocks in cooling crystallization, melt extraction, and reequilibration modes.
+@Desc    :   Comparison of natural volcanic and plutonic rock temperatures calculated from hornblende thermometers and simulated volcanic and plutonic rock temperatures in cooling crystallization, melt extraction, and reequilibration modes as a function of silica.
+
 '''
 
 # %% import lib

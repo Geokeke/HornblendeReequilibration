@@ -6,7 +6,7 @@
 @Author  :   Ke Gao 
 @Version :   1.0
 @Contact :   earthgaoke@gmail.com
-@Desc    :   None
+@Desc    :   Comparison of whole-rock compositions and melt compositions in equilibrium with hornblende in natural volcanic and plutonic rocks.
 '''
 
 #%% import
